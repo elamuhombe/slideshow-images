@@ -1,0 +1,28 @@
+h1{
+    margin-left: 25%;
+    text-decoration: underline;
+}
+#placeholder-image{
+
+    margin: auto;
+    margin-bottom: 10px;
+    
+   border: solid 2px  #000000;
+   border-radius: 15px;
+  
+   width: 700px;
+
+}
+#placeholder-image  img{
+    max-width: 100%;
+    max-height: 100%;
+    border-radius: 15px;
+}
+.thumbs-image{
+    margin-left: 10%;
+}
+.thumbs-image img{
+    margin-left: auto;
+    width: 200px;
+    height: 200px;
+}
