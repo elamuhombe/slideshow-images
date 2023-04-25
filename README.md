@@ -1,2 +1,4 @@
-# slideshow-images
-Image slider
+
+#Simple image slider project created using javascript and html
+
+#Difficulty: Beginner
